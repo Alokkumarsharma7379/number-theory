@@ -1,6 +1,6 @@
 # Number Theory
 
-Implementation of core combinatorics concepts and algorithms in C++ and Python for number theory.
+Implementation of core number theory concepts, problems and algorithms in C++ and Python for number theory.
 
 ## Start here
 
