@@ -1,6 +1,6 @@
-# Number Theory: Mathematics and Code
+# Number Theory
 
-Original study notes for university examinations, competitive programming, and careful C++20/Python programming. Mathematical understanding and independently reproducible proofs come first.
+Implementation of core combinatorics concepts and algorithms in C++ and Python for number theory.
 
 ## Start here
 
